@@ -53,3 +53,7 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# .NET build files
+bin/
+obj/
